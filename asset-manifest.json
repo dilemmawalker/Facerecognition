@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dilemmawalker/facial_recognition.git/static/css/main.be0d9d63.chunk.css",
+    "main.js": "/dilemmawalker/facial_recognition.git/static/js/main.afe91668.chunk.js",
+    "main.js.map": "/dilemmawalker/facial_recognition.git/static/js/main.afe91668.chunk.js.map",
+    "runtime-main.js": "/dilemmawalker/facial_recognition.git/static/js/runtime-main.e46de245.js",
+    "runtime-main.js.map": "/dilemmawalker/facial_recognition.git/static/js/runtime-main.e46de245.js.map",
+    "static/css/2.31461e4f.chunk.css": "/dilemmawalker/facial_recognition.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.e5cf40c6.chunk.js": "/dilemmawalker/facial_recognition.git/static/js/2.e5cf40c6.chunk.js",
+    "static/js/2.e5cf40c6.chunk.js.map": "/dilemmawalker/facial_recognition.git/static/js/2.e5cf40c6.chunk.js.map",
+    "index.html": "/dilemmawalker/facial_recognition.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/dilemmawalker/facial_recognition.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.be0d9d63.chunk.css.map": "/dilemmawalker/facial_recognition.git/static/css/main.be0d9d63.chunk.css.map",
+    "static/js/2.e5cf40c6.chunk.js.LICENSE.txt": "/dilemmawalker/facial_recognition.git/static/js/2.e5cf40c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e46de245.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.e5cf40c6.chunk.js",
+    "static/css/main.be0d9d63.chunk.css",
+    "static/js/main.afe91668.chunk.js"
+  ]
+}
